@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="190" width ='290' src="https://media.tenor.com/F2q8AHyHa4oAAAAC/goku-songoku.gif"  />
+</div>
+
 <h1 align="center">Hi There👋, I'm Anshuraj Mishra</h1>
 <h3 align="center">A passionate frontend React developer from India</h3>
 <hr>
