@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, GSAP, Flutter & NEXTJS**
 
-- 👨‍💻 All of my projects are available at [https://anshuraj-portfolio.netlify.app](https://anshuraj-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://anshuraj-portfolio.vercel.app](https://anshuraj-portfolio.vercel.app)
 
 - 💬 Ask me about **javascript, react and firebase**
 
