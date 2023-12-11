@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mishraanshuraj" target="blank"><img src="https://img.shields.io/twitter/follow/mishraanshuraj?logo=twitter&style=for-the-badge" alt="mishraanshuraj" /></a> </p>
 
-- 🔭 I’m currently working on **React E-commerce App with stripe payment**
-
-- 🌱 I’m currently learning **React, GSAP, Flutter & NEXTJS**
+- 🔭🌱 I’m currently learning **React, GSAP, Flutter & NEXTJS**
 
 - 👨‍💻 All of my projects are available at [https://anshuraj-portfolio.vercel.app](https://anshuraj-portfolio.vercel.app)
 
