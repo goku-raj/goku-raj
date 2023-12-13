@@ -9,7 +9,7 @@
 
 - 🔭🌱 I’m currently learning **React, GSAP, Flutter & NEXTJS**
 
-- 👨‍💻 All of my projects are available at [https://anshuraj-portfolio.vercel.app](https://anshuraj-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://anshuraj-port2.vercel.app](https://anshuraj-port2.vercel.app)
 
 - 💬 Ask me about **javascript, react and firebase**
 
