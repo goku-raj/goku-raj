@@ -5,7 +5,7 @@
 <h1 align="center">Hi There👋, I'm Anshuraj Mishra</h1>
 <h3 align="center">A passionate frontend React developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/mishraanshuraj" target="blank"><img src="https://img.shields.io/twitter/follow/mishraanshuraj?logo=twitter&style=for-the-badge" alt="mishraanshuraj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AnshurajM16812" target="blank"><img src="https://img.shields.io/twitter/follow/mishraanshuraj?logo=twitter&style=for-the-badge" alt="mishraanshuraj" /></a> </p>
 
 - 🔭🌱 I’m currently learning **React, GSAP, Flutter & NEXTJS**
 
@@ -23,7 +23,7 @@
   <a href="anshuraj1479@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/anshuraj-mishra-6a3a47177" target="_blank">
+  <a href="https://www.linkedin.com/in/anshuraj-mishra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
