@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/AnshurajM16812" target="blank"><img src="https://img.shields.io/twitter/follow/mishraanshuraj?logo=twitter&style=for-the-badge" alt="mishraanshuraj" /></a> </p>
 
-- 🔭🌱 I’m currently learning **React, GSAP, Flutter & NEXTJS**
+- 🔭🌱 I’m currently learning **MERN & NEXTJS**
 
 - 👨‍💻 All of my projects are available at [https://anshuraj-port2.vercel.app](https://anshuraj-port2.vercel.app)
 
