@@ -27,9 +27,9 @@
  
 ## ✨ Fun Facts 
 
-- Dragon Ball Z is my favorite anime.
-- As a kid, I wanted to be an astronaut.
-- I love using Mac after switching from Linux.
+- Dragon Ball Z is my favorite anime.🐉
+- As a kid, I wanted to be an astronaut.🧑🏽‍🚀
+- I love using Mac after switching from Linux.💻
 
 ## 📫 Contact
 
