@@ -27,7 +27,7 @@
  
 ## ✨ Fun Facts 
 
-- Demon Slayer is my favorite anime.
+- Dragon Ball Z is my favorite anime.
 - As a kid, I wanted to be an astronaut.
 - I love using Mac after switching from Linux.
 
