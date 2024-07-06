@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi There👋, I'm Anshuraj Mishra</h1>
-<h3 align="center">A passionate frontend React developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/AnshurajM16812" target="blank"><img src="https://img.shields.io/twitter/follow/mishraanshuraj?logo=twitter&style=for-the-badge" alt="mishraanshuraj" /></a> </p>
 
